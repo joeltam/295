@@ -1,0 +1,9 @@
+✅ E = 200 kWh, Total Cost = $1247657.70
+✅ E = 300 kWh, Total Cost = $1249945.89
+✅ E = 400 kWh, Total Cost = $1251771.18
+✅ E = 500 kWh, Total Cost = $1253277.28
+✅ E = 600 kWh, Total Cost = $1254543.20
+✅ E = 700 kWh, Total Cost = $1255618.45
+✅ E = 800 kWh, Total Cost = $1256536.71
+✅ E = 900 kWh, Total Cost = $1257322.28
+✅ E = 1000 kWh, Total Cost = $1257993.41
